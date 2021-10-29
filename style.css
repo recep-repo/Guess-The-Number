@@ -10,7 +10,6 @@ body{
 }
 
 #container{
-    height: 100vh;
     text-align: center;
     margin-top: 10%;
 }
@@ -27,7 +26,7 @@ body{
 }
 
 #check-button{
-    padding: 1em;
+    padding:1em;
     margin-bottom: 2em;
     background-color: orange;
     border: 1px solid silver;
@@ -46,3 +45,4 @@ body{
     border-radius: 5px;
     background-image: linear-gradient(to right,orange, red, purple);
 }
+
